@@ -74,4 +74,9 @@
       <url>file://c:/pierre/maven-repo-snapshots</url>
     </snapshotRepository>
   </distributionManagement>
+  <scm>
+    <connection>scm:git:https://github.com/vernetto/webapp.git</connection>
+    <url>http://github.com/vernetto/webapp</url>
+    <developerConnection>scm:git:https://github.com/vernetto/webapp.git</developerConnection>
+  </scm>
 </project>
